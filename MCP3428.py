@@ -164,6 +164,6 @@ while True:
 
 	time.sleep(0.5)
 	voltage = getconvert()
-	print "		MCP3428 Readings "
-	print "\nVoltage of the source is :",voltage,"volts\n"
-	print "		**********************************\n"
+	print ("		MCP3428 Readings ")
+	print ("\nVoltage of the source is :",voltage,"volts\n")
+	print ("		**********************************\n")
